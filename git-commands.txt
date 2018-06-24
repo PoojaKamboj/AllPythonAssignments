@@ -1,4 +1,4 @@
-Hi Robin ! The basic Git commands are :
+Hi Pooja ! The basic Git commands are :
 
  >> create a new repository on the command line
 
